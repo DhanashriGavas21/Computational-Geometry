@@ -10,6 +10,11 @@ namespace Computational_Geometry
   {
     static void Main(string[] args)
     {
+      //LineSegment lineSegment = new LineSegment();
+      // Curve curve = new Curve();
+      CubicBezier cubicBezier = new CubicBezier();
+      //Circle circle = new Circle();
+      //Elipse elipse = new Elipse();
     }
   }
 }
